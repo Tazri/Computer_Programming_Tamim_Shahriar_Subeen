@@ -1,0 +1,2 @@
+[![Github Profile](./asset/badge/github.svg)](https://github.com/Tazri) [![C](./asset/badge/c_icon_bgblue_textwhite.svg)](https://github.com/Tazri/Computer_Programming_Tamim_Shahriar_Subeen) 
+[![part 3](./asset/badge/Computer_Programming_Part_3.svg)](./part_3.md)
