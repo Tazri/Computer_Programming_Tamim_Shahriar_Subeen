@@ -10,5 +10,5 @@ This chapter little about discuss programming history. Key point of this chapter
 
 This chapter has no more imporant note.
 
-[< Part 1](./../part_1.md) | [Chapter 01 : First Program](./../chapter_01/chapter_01.md)
+[< Part 1](./../part_1.md) | [Chapter 01 : First Program >](./../chapter_01/chapter_01.md)
 ---------------------

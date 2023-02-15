@@ -1,0 +1,5 @@
+# ignore all exe folder where store the execuation program
+exe/
+
+# also ignore .exe file 
+.exe 
