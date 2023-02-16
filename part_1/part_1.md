@@ -10,3 +10,4 @@ Here is my note on computer programming part 1 book chapter by chapter.
 - [Chapter 00: Before Start](./chapter_00/chapter_00.md)
 - [Chapter 01: First Program](./chapter_01/chapter_01.md)
 - [Chapter 02: Data Type, Input and Output](./chapter_02/chapter_02.md)
+- [Chapter 03: Conditional Logic](./chapter_03/chapter_03.md)
