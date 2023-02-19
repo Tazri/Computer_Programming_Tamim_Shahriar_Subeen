@@ -11,3 +11,21 @@ Here is my note on computer programming part 1 book chapter by chapter.
 - [Chapter 01: First Program](./chapter_01/chapter_01.md)
 - [Chapter 02: Data Type, Input and Output](./chapter_02/chapter_02.md)
 - [Chapter 03: Conditional Logic](./chapter_03/chapter_03.md)
+- [Chapter 04: Loop](./chapter_04/chapter_04.md)
+- [Chpater 05: Little Much Math](./chapter_05/chapter_05.md)
+- [Chapter 06: Array](./chapter_06/chapter_06.md)
+
+<hr />
+<br />
+
+
+
+[< README](./../README.md)
+-----------------------
+
+or 
+
+[Part 2 >](./../part_2/part_2.md)
+-------------------------------
+[Part 3 >](./../part_3/part_3.md)
+--------------------------------
