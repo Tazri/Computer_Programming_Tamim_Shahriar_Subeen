@@ -14,6 +14,10 @@ Here is my note on computer programming part 1 book chapter by chapter.
 - [Chapter 04: Loop](./chapter_04/chapter_04.md)
 - [Chpater 05: Little Much Math](./chapter_05/chapter_05.md)
 - [Chapter 06: Array](./chapter_06/chapter_06.md)
+- [Chapter 07: Function](./chapter_07/chapter_07.md)
+- [Chapter 08: Binary Search](./chapter_08/chapter_08.md)
+- [Chapter 09: string](./chapter_09/chapter_09.md)
+- [Chapter 10: Prime Number](./chapter_10/chapter_10.md)
 
 <hr />
 <br />
