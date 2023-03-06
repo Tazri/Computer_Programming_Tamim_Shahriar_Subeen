@@ -18,6 +18,10 @@ Here is my note on computer programming part 1 book chapter by chapter.
 - [Chapter 08: Binary Search](./chapter_08/chapter_08.md)
 - [Chapter 09: string](./chapter_09/chapter_09.md)
 - [Chapter 10: Prime Number](./chapter_10/chapter_10.md)
+- [Chapter 11: Array Again](./chapter_11/chapter_11.md)
+- [Chapter 12: Binary Number](./chapter_12/chapter_12.md)
+- [Chapter 13: Some Programming Problem](./chapter_13/chapter_13.md)
+- [Chapter 14: Begining of End](./chapter_14/chapter_14.md)
 
 <hr />
 <br />

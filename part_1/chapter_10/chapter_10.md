@@ -278,5 +278,7 @@ int main(){
 }
 ```
 
+<hr/ >
+
 [< Chapter 09: string ](./../chapter_09/chapter_09.md) | [Part 1](./../part_1.md) | [Chapter 11: Array Again >](./../chapter_11/chapter_11.md)
 -----------------------------------
