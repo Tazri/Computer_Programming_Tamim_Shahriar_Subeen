@@ -1,21 +1,3 @@
-Chapter 12 : Binary Number
-===========================
-
-Exponential Expression of binary for convert to decimal : 
-```
-<spacify digit> * <base^(position of digit)>
-
-Here binary base is 2 so a value of spacify of digit in binary is : 
-<spacify digit> * <2^(position of digit)>
-
-Position of digit start with 0 from right to left.
-
-Example :
-10110 = 1*2^4 + 0*2^3 + 1*2^2 + 1*2^1 + 1*2^0
-```
-
-Here is the Program for convert binary to decimal : 
-```c
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
@@ -70,9 +52,3 @@ Command 'exit' to terminate the program.
 
 >> Program Terminate <<
 */
-```
-
-<hr/ >
-
-[< Chapter 11: Array Again](./../chapter_11/chapter_11.md) | [Part 1](./../part_1.md) | [Chapter 13: Some Programming Problem>](./../chapter_13/chapter_13.md)
------------------------------------
