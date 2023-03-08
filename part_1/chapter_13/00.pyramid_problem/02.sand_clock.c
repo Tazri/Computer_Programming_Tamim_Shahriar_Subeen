@@ -8,7 +8,7 @@ void print_char(char c,int n){
 }
 
 int main(){
-    int i,j,k;
+    int i,j;
 
     for(i= 11,j=0;i > 0;i-=2,j++){ // upper part
         print_char(' ',j);
