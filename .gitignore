@@ -3,3 +3,5 @@ exe/
 
 # also ignore .exe file 
 .exe 
+
+text/
