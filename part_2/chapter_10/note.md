@@ -1,6 +1,8 @@
 Chapter 10: Program Debugging
 ================================
 
+Nothing to note for this chapter. 🙂
+
 <hr />
 <br />
 
