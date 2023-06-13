@@ -15,3 +15,14 @@ All Chapter :
 - [Chapter 09: Misc](./chapter_09/note.md)
 - [Chapter 10: Program Debugging](./chapter_10/note.md)
 - [Chapter 11: Need to go so far](./chapter_11/note.md)
+
+
+-------------------------------
+Link to go :
+
+#### [< README](./../README.md)
+
+or 
+
+#### [Part 1 >](./../part_1/part_1.md)
+#### [Part 3 >](./../part_3/part_3.md)
